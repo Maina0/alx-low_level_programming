@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	pututs("\"Programming is like develop a multilingual puzzle");
+	pututs("\"Programming is like building a multilingual puzzle");
 	return (0);
 }	
