@@ -4,7 +4,7 @@
 /**
  * main - Entry
  *
- * return: Always 0 (Successi)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
